@@ -1,1 +1,1 @@
-eyzalts: note run.py
+eyzalts: note run.bat
